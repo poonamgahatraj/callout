@@ -1,0 +1,16 @@
+.button{
+    display: flex;
+    justify-content: end;
+}
+
+.callout
+{
+    width:19%;
+    position: absolute;
+    left: 80%;
+    top: 16pc;
+}
+.container
+{
+    position: relative;
+}
